@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-**BS-AI (4th Year) - Lab Assignments**
+**BS-AI (4th Semester) - Lab Assignments**
 
 *A comprehensive collection of AI lab assignments covering Python fundamentals, data analysis, graph algorithms, and search techniques*
 
