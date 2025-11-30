@@ -12,6 +12,8 @@ This lab introduces two essential Python libraries for data science: **NumPy** f
 - Filter, sort, and aggregate data effectively
 - Merge and combine datasets from multiple sources
 
+![Salary Analysis](../visualizations/lab03_salary_analysis.png)
+
 ## 📚 Libraries Used
 
 ```python

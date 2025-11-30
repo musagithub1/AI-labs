@@ -12,6 +12,12 @@ This lab implements advanced AI search algorithms used for pathfinding and optim
 - Compare informed vs uninformed search strategies
 - Analyze local optima and global optimization challenges
 
+### Visualizations
+<div align="center">
+  <img src="../visualizations/lab05_astar_path.png" width="45%" alt="A* Pathfinding">
+  <img src="../visualizations/lab05_hill_climbing.png" width="45%" alt="Hill Climbing">
+</div>
+
 ## 📚 Libraries Used
 
 ```python

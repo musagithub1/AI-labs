@@ -12,6 +12,8 @@ This lab explores fundamental graph traversal algorithms essential for artificia
 - Manage visited nodes to prevent infinite loops
 - Compare traversal order differences between BFS and DFS
 
+![Graph Structure](../visualizations/lab04_graph_structure.png)
+
 ## 📚 Libraries Used
 
 ```python

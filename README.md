@@ -75,6 +75,8 @@ This repository contains practical implementations of core Artificial Intelligen
 - Pandas DataFrame operations
 - Data filtering, sorting, and merging
 
+![Salary Analysis](visualizations/lab03_salary_analysis.png)
+
 **Key Skills:** Data analysis, numerical computing, DataFrame manipulation
 
 [📄 View Code](lab03_numpy_pandas.py) | [📖 View Documentation](docs/lab03_numpy_pandas.md)
@@ -89,6 +91,8 @@ This repository contains practical implementations of core Artificial Intelligen
 - Visited set management
 - Queue and recursion techniques
 
+![Graph Structure](visualizations/lab04_graph_structure.png)
+
 **Key Skills:** Graph algorithms, search strategies, algorithm complexity
 
 [📄 View Code](lab04_bfs_dfs.py) | [📖 View Documentation](docs/lab04_bfs_dfs.md)
@@ -102,6 +106,8 @@ This repository contains practical implementations of core Artificial Intelligen
 - Hill Climbing optimization
 - Greedy local search
 - Objective function optimization
+
+![A* Pathfinding](visualizations/lab05_astar_path.png)
 
 **Key Skills:** Informed search, heuristic evaluation, optimization algorithms
 
