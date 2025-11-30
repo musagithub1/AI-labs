@@ -32,7 +32,7 @@ This repository contains practical implementations of core Artificial Intelligen
 
 **Course Information:**
 - **Subject:** Artificial Intelligence
-- **Department:** BS-AI (4th Year)
+- **Department:** BS-AI (4th Semester)
 - **Instructor:** Farhan Zafar Kayani
 
 ---
