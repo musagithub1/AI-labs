@@ -298,4 +298,4 @@ Objective Function: -(x - 3)² + 10
 
 ---
 
-*Author: Mussa Khan | BS-AI (4th Year)*
+*Author: Mussa Khan | BS-AI (4th Semester)*

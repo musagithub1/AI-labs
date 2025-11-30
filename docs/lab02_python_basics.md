@@ -180,4 +180,4 @@ print("\nSum of 7 and 3 is:", add_numbers(7, 3))
 
 ---
 
-*Author: Mussa Khan | BS-AI (4th Year)*
+*Author: Mussa Khan | BS-AI (4th Semester)*

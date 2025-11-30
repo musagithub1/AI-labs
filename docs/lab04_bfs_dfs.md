@@ -218,4 +218,4 @@ visited = set()  # O(1) lookup time
 
 ---
 
-*Author: Mussa Khan | BS-AI (4th Year)*
+*Author: Mussa Khan | BS-AI (4th Semester)*

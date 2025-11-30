@@ -1,6 +1,6 @@
 # Lab 3: NumPy and Pandas - Data Analysis Fundamentals
 # Author: Mussa Khan
-# Department: BS-AI (4th Year)
+# Department: BS-AI (4th Semester)
 # Subject: Artificial Intelligence
 # Instructor: Farhan Zafar Kayani
 

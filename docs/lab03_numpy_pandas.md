@@ -218,4 +218,4 @@ print("\nMerged DataFrame:\n", merged_df)
 
 ---
 
-*Author: Mussa Khan | BS-AI (4th Year)*
+*Author: Mussa Khan | BS-AI (4th Semester)*

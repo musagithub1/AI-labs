@@ -1,6 +1,6 @@
 # Lab 2: Python Basics - Lists, Dictionaries, Tuples & Functions
 # Author: Mussa Khan
-# Department: BS-AI (4th Year)
+# Department: BS-AI (4th Semester)
 # Subject: Artificial Intelligence
 # Instructor: Farhan Zafar Kayani
 

@@ -1,6 +1,6 @@
 # Lab 5: AI Search Algorithms - A* and Hill Climbing
 # Author: Mussa Khan
-# Department: BS-AI (4th Year)
+# Department: BS-AI (4th Semester)
 # Subject: Artificial Intelligence
 # Instructor: Farhan Zafar Kayani
 
