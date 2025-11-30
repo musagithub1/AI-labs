@@ -198,7 +198,7 @@ AI-labs/
 ## 👨‍💻 Author
 
 **Mussa Khan**
-- 🎓 BS-AI (4th Year)
+- 🎓 BS-AI (4th Semester)
 - 📧 GitHub: [@musagithub1](https://github.com/musagithub1)
 
 ---
